@@ -1,0 +1,11 @@
+"
+Buy the stock the next trading day after an insider buys ₹10 lakh+ worth of shares. Hold it for 30 days. Then sell
+"
+
+
+
+Variations : 
+
+A. Change the stock holding period [ 15 days and 90 days ]
+B. Change threshold value to 25 lakhs 
+C. Consider only promoter buys 
