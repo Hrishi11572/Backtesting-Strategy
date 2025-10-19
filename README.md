@@ -5,4 +5,4 @@
  <p>The `.ipynb` files are jupyter notebooks, containing code and results for 
   each stategy and the variations used</p>
 
-spoiler : Heavy gpt usage in this task (was allowed)
+**spoiler : Heavy gpt usage in this task (was allowed)**
